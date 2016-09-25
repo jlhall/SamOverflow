@@ -6,3 +6,4 @@
 	Answer.create(user_id: rand(1..80), post_id: rand(1..80), content: Faker::Lorem.sentence)
 end
 
+User.create(username: "admin", email: "admin@samoverflow.com", password: "password")

@@ -1,13 +1,15 @@
+<img src="./SamOverflow.png" width="500">
+
 # SamOverflow
-- Group project building a clone of StackOverflow
+A 2-day group project building a clone of StackOverflow, lovingly called SamOverflow in honor of group member Samuel Heinz. We used Sinatra, ActiveRecord, and PostgreSQL as well as some AJAX to enable post creation, upvoting/downvoting, commenting, etc. 
 
-##Team SamsoniteGokus
-- Samuel Heinz
-- Mikey Moore
-- Jason Sutter
-- Jonathan Hall
+## Team SamsoniteGokus
+- [Samuel Heinz](https://github.com/samheinz)
+- [Mikey Moore](https://github.com/mikeymoore)
+- [Jason Sutter](https://github.com/jasonsutter87)
+- [Jonathan Hall](https://github.com/jlhall)
 
-##Key Deliverables for MVP
+## Key Deliverables
   - Polymorphic associations
   - AJAX for dynamic voting/sorting and scrolling
   - A user can post questions
